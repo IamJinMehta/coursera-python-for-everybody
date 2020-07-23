@@ -1,0 +1,1 @@
+just run all the frogrames on geodata and visualize it.
