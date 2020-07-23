@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import sqlite3
 
-conn = sqlite3.connect('trackdb.sqlite')
+conn = sqlite3.connect('trackdb1.sqlite')
 cur = conn.cursor()
 
 # Make some fresh tables using executescript()
